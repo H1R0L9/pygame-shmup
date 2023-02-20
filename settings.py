@@ -1,0 +1,21 @@
+import pygame
+import sys
+import random
+import time
+
+
+FPS = 60
+
+WIDTH = 1200
+HEIGHT = 800
+
+BG_COLOR = (24, 89, 117)
+
+PLAYER_SPEED = 5
+BULLET_SPEED = 10
+
+PLAYER_HEALTH = 10
+PLAYER_DAMAGE = 10
+
+BOSS_HEALTH = 100
+BOSS_DAMAGE = 1
